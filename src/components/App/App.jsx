@@ -9,7 +9,7 @@ import { Title } from './App.styled';
 
 export class App extends Component {
   state = {
-    contact: [],
+    contacts: [],
     filter: '',
   };
 
